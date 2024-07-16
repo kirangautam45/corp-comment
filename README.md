@@ -25,6 +25,6 @@ CorpComment is an intuitive feedback application tailored for modern service com
 
 ##
 
-> Developed by Dmytro Stas
+> Developed by Kiran Gautam
 
-[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-stas/)
+[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirang03/)
